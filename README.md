@@ -17,16 +17,8 @@ A full enterprise network simulation built in Cisco Packet Tracer featuring inte
 ---
 
 ## Topology
+![Topology](https://raw.githubusercontent.com/iQ-coder/cisco-nat-vlan-ospf-labs/blob/main/Topology.png}
 
-```
-[PC-Sales1/2]──[SW-Sales]──┐
-[PC-HR1/2]────[SW-HR]──────┤
-                            ├──[MLS-CORE (3560)]──[R-EDGE]──Serial──[R-ISP]──[Public-Server]
-[Server-Internal]─[SW-Servers]─┤
-[Server-Honeypot]─[SW-Honeypot]┘
-```
-
----
 
 ## Network Addressing
 
