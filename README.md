@@ -17,8 +17,7 @@ A full enterprise network simulation built in Cisco Packet Tracer featuring inte
 ---
 
 ## Topology
-![Topology](https://raw.githubusercontent.com/iQ-coder/cisco-nat-vlan-ospf-labs/blob/main/Topology.png)
-
+![Topology](https://raw.githubusercontent.com/iQ-coder/cisco-nat-vlan-ospf-labs/main/Topology.png)
 
 ## Network Addressing
 
